@@ -1,1 +1,1 @@
-decompile haskell .elf
+solve a expression 
